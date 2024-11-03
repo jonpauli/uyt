@@ -94,9 +94,9 @@ repeat
     local textList = {
         -- Original
         '', 'L', 'Lo', 'Loc', 'Lock', 'Lock.', 'Lock.<font color="rgb(245, 66, 230)">s</font>',
-        'Lock.<font color="rgb(245, 66, 230)">f</font> ', 'Lock.<font color="rgb(245, 66, 230)">F</font> ',
-        'Lock.<font color="rgb(245, 66, 230)">fl</font> ', 'Lock.<font color="rgb(245, 66, 230)">Fl</font> ',
-        'Lock.<font color="rgb(245, 66, 230)">flu</font> ', 'Lock.<font color="rgb(245, 66, 230)">Flun</font> ',
+        'Lock.<font color="rgb(245, 66, 230)">F</font> ', 'Lock.<font color="rgb(245, 66, 230)">F</font> ',
+        'Lock.<font color="rgb(245, 66, 230)">Fl</font> ', 'Lock.<font color="rgb(245, 66, 230)">Fl</font> ',
+        'Lock.<font color="rgb(245, 66, 230)">Flu</font> ', 'Lock.<font color="rgb(245, 66, 230)">Flun</font> ',
         'Lock.<font color="rgb(245, 66, 230)">Flun</font> ', 'Lock.<font color="rgb(245, 66, 230)">Flun</font> ',
         'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | ', 'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | p ',
         'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | Pr ', 'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | Pro ',
@@ -112,10 +112,10 @@ repeat
         'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | Pro ', 'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | Pr ',
         'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | P ', 'Lock.<font color="rgb(245, 66, 230)">Flunk</font> | ',
         'Lock.<font color="rgb(245, 66, 230)">Flunk</font> ', 'Lock.<font color="rgb(245, 66, 230)">Flun</font> ',
-        'Lock.<font color="rgb(245, 66, 230)">flun</font>', 'Lock.<font color="rgb(245, 66, 230)">Flu</font> ',
-        'Lock.<font color="rgb(245, 66, 230)">flu</font> ', 'Lock.<font color="rgb(245, 66, 230)">Fl</font> ',
-        'Lock.<font color="rgb(245, 66, 230)">fl</font> ', 'Lock.<font color="rgb(245, 66, 230)">F</font> ',
-        'Lock.<font color="rgb(245, 66, 230)">f</font> ', 'Lock.', 'Lock', 'Loc', 'Lo', 'L',
+        'Lock.<font color="rgb(245, 66, 230)">Flun</font>', 'Lock.<font color="rgb(245, 66, 230)">Flu</font> ',
+        'Lock.<font color="rgb(245, 66, 230)">Flu</font> ', 'Lock.<font color="rgb(245, 66, 230)">Fl</font> ',
+        'Lock.<font color="rgb(245, 66, 230)">Fl</font> ', 'Lock.<font color="rgb(245, 66, 230)">F</font> ',
+        'Lock.<font color="rgb(245, 66, 230)">F</font> ', 'Lock.', 'Lock', 'Loc', 'Lo', 'L',
         -- Bozos
         'G', 'Ga', 'Gay',
         'Ga', 'G',
